@@ -1,0 +1,11 @@
+{
+  "name": "Valoriza",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/arthurfortunato/Valoriza.git",
+  "author": "arthurfortunato <luizarthur.fortunato@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
