@@ -5,8 +5,12 @@
   "repository": "https://github.com/arthurfortunato/Valoriza.git",
   "author": "arthurfortunato <luizarthur.fortunato@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev src/server.ts"
+  },
   "devDependencies": {
     "@types/express": "^4.17.13",
+    "ts-node-dev": "^1.1.8",
     "typescript": "^4.4.4"
   },
   "dependencies": {
